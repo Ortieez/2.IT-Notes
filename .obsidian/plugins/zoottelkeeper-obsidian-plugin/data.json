@@ -1,0 +1,9 @@
+{
+  "indexPrefix": "Index Of ",
+  "indexItemStyle": "pureLink",
+  "indexTagValue": "MOC",
+  "indexTagBoolean": true,
+  "indexTagSeparator": ", ",
+  "indexTagLabel": "tags",
+  "cleanPathBoolean": true
+}

@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "b3fc70c0308d23b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "24b76f1bd56f12c0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "School/OSY/OS UNIX Základy.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd030aa92cd43166",
+    "type": "split",
+    "children": [
+      {
+        "id": "df20fbe2193beae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82f16069d318f063",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7567e7630d6ff6cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "9858f8e28abe43fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "d192de17a784447a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f29037fa96ca6fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/OSY/OS UNIX Základy.md"
+              }
+            }
+          },
+          {
+            "id": "5bd89c9a2f118884",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e95bd2c67d38af83",
+            "type": "leaf",
+            "state": {
+              "type": "hackernews-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "27dc8fd9e319d18a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/OSY/OS UNIX Základy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2cd16f697f2c1dc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9585535b4492c93",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "School/OSY/OS UNIX Základy.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.1,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792592,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "active": "24b76f1bd56f12c0",
+  "lastOpenFiles": [
+    "School/OSY/OS UNIX Základy.md",
+    "School/OSY/Index Of OSY.md",
+    "School/OSY/Obvyklá struktura adresářů.md",
+    "School/OSY/Rozdělení Souborů.md",
+    "School/DAT/Reálne SŘBD.md",
+    "School/DAT/Oracle DB.md",
+    "School/DAT/Index Of DAT.md",
+    "School/ČJ/Slovotvorba.md",
+    "Rozdělení Souborů.md",
+    "Index Of 2.IT.md"
+  ]
+}
