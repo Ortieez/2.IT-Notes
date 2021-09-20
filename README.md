@@ -2,6 +2,6 @@
 Obsidian Vault backup on github
 
 ### Current Graph view of my note vault
-- Last updated 18.9.2021 14:20
+- Last updated 20.9.2021 19: 18
 
-![Current Graph view of my note vault](https://i.imgur.com/m34e1v2.png)
+![Current Graph view of my note vault](https://i.imgur.com/P2ZO35o.png)

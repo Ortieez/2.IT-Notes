@@ -57,3 +57,74 @@
 - Soubory mohou být před nežádoucím přístupem chráněny nastavením přístupových práv.
 
 - Každému souboru lze nastavit přístupová práva pro čtení, zápis nebo vykonávání pro vlastníka, skupinu nebo všechny.
+
+![[Rights.png]]
+![[Rights_Meaning.png]]
+
+#### Změna přístupových práv
+   
+```bash
+$ chmod [parametry] [soubor]
+```
+
+Parametry:
+
+- u (uživatel), g (skupina), o (ostatní), a (všechny uvedené)
+
+- \+ (přidá právo), \- (odebere právo), = (nastavení práva)
+
+Příklady:
+```bash
+$ chmod a=rwx soubor
+$ chmod 777 soubor
+
+$ chmod 754 soubor
+```
+
+-  7=(111)_2→rwx=111 – pro uživatele
+
+-  5=(101)_2→r-x=101 – pro skupinu
+
+-  4=(100)_2→r--=100 – pro ostatní
+
+Uživatelská práva souboru: -rwxr-xr--
+
+Příkaz smí používat pouze root.
+Nastavení práv pro soubor na vlastníka michal:
+```bash
+$ chown michal soubor
+```
+
+Nastavení práv pro soubor na skupinu skupina4.
+```bash
+$ chgrp skupina4 soubor
+```
+
+Práva zjistíme takto:
+```bash
+$ ls -laF
+```
+
+### Typ souboru
+
+První znak označuje typ souboru:
+
+- \- značí obyčejný soubor
+
+- d *adresář*
+
+- c *speciální znakový soubor*
+
+- b *speciální blokový soubor*
+
+- l *link neboli symbolický odkaz*
+
+```bash
+$ ln -s jméno_cíle [jméno_sym_odkazu]
+```
+
+### Základní adresářové příkazy
+![[Folder_Commands.png]]
+
+### Základní souborové příkazy
+![[Souborove_Prikazy.png]]

@@ -1,5 +1,3 @@
-# Relační Databáze
-
 - Relační databázový model sdružuje data do tzv. relací (tabulek), které obsahují n-tice (záznamy, řádky).
 - Tabulky (relace) tvoří základ relační databáze.
 - Tabulka je struktura záznamů s pevně stanovenými položkami (sloupci - atributy).

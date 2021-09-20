@@ -1,11 +1,11 @@
-# Úvod do databází
+## Úvod do databází
 - Data jsou organizována v databázích (DB)
 - Data jsou řízena balíkem programů, který se nazývá systém řízení bází dat (SŘBD)
 - Databáze a systém řízení bází dat tvoří databázový systém (DBS)
 
-## `DB + SŘBD = DBS`
+#### `DB + SŘBD = DBS`
 
-# DB
+### DB
 - Jedná se o datovou základnu
 - Data jsou organizována v komplikovanější centrálně zpracovávané struktuře dat, zvané databáze.
 - Databáze zahrnuje čtyři komponenty:
@@ -18,7 +18,7 @@
 - Data jsou obvykle uložená v patřičných formátech na vnějších paměťových médiích
 - Široká veřejnost si pod tímto pojmem představuje kompletní databázový systém, tedy data i software, který s daty manipuluje
 
-# Databázové Modely
+### Databázové Modely
 Z hlediska ukládání dat a vazeb mezi nimi dělíme databáze na:
 - [[Hierarchická DB]]
 - [[Síťová DB]]
@@ -26,7 +26,7 @@ Z hlediska ukládání dat a vazeb mezi nimi dělíme databáze na:
 - Objektová DB
 - Objektově relační DB
 
-# Požadavky na SŘBD
+### Požadavky na SŘBD
 
 - Perzistence (přetrvávání dat v databázi nezávisle na programech či aktivitách uživatele)
 - Sdílení dat (víceuživatelský přístup)
@@ -35,7 +35,7 @@ Z hlediska ukládání dat a vazeb mezi nimi dělíme databáze na:
 - Neredundance (zbytečně se neopakující prvky v databázi)
 - Nezávislost (nezávislý přístup k datům uložených v různých platformách)
 
-# Služby SŘBD
+### Služby SŘBD
 - Transakční zpracování
 - Řízení souběžného přístupu více uživatelů
 - Řízení zotavení z chyb

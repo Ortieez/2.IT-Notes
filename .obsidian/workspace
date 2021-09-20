@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "24b76f1bd56f12c0",
+        "id": "0178dc59a34e5b18",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/OSY/OS UNIX Základy.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/OSY/OS UNIX Základy.md"
+                "file": "README.md"
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/OSY/OS UNIX Základy.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "2cd16f697f2c1dc1",
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "School/OSY/OS UNIX Základy.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792592,
+                  "scale": 0.5087618855792596,
                   "close": true
                 }
               }
@@ -151,19 +151,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 293.5,
+    "collapsed": true
   },
-  "active": "24b76f1bd56f12c0",
+  "active": "0178dc59a34e5b18",
   "lastOpenFiles": [
+    "README.md",
     "School/OSY/OS UNIX Základy.md",
-    "School/OSY/Index Of OSY.md",
-    "School/OSY/Obvyklá struktura adresářů.md",
-    "School/OSY/Rozdělení Souborů.md",
+    "School/PRV/Softwarové License.md",
     "School/DAT/Reálne SŘBD.md",
+    "School/DAT/Úvod do Databází.md",
+    "School/DAT/Databázové Modely/Relační DB.md",
+    "School/DAT/DBS Historie.md",
+    "School/DAT/MySQL.md",
     "School/DAT/Oracle DB.md",
-    "School/DAT/Index Of DAT.md",
-    "School/ČJ/Slovotvorba.md",
-    "Rozdělení Souborů.md",
-    "Index Of 2.IT.md"
+    "School/DAT/Index Of DAT.md"
   ]
 }

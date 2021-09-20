@@ -1,5 +1,3 @@
-  # Historie DBS
-  
 - První předchůdci databází byly papírové kartotéky, seznamy, adresáře. Veškeré operace prováděl sám člověk.
 
 - Dalším milníkem bylo převedení zpracování dat na stroje. Například v roce 1890 při sčítání lidu bylo použito děrných štítků a elektromechanických strojů.
