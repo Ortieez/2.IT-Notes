@@ -12,7 +12,7 @@
 - **Kořen** - nese věcný význam, zajišťuje formální a významovou spojitost mezi slovem základovým a slovem utvořeným
 
 | 1.stupeň = LES
-| 2.stupeň = LES**NÍ**
+| 2. stupeň = LES**NÍ**
 | 3.stupeň = LESNÍ**K**
 | 
 | 2.stupeň = **PRA**LES
@@ -22,3 +22,17 @@
 
 1. Úroveň = slovo základové
 2. Úroveň = slovo utvořené + slovo základové pro 3. úroveň
+
+- Slovotvorný základ \- část slova, která je společná základovému a utvořenému slovu
+- Lakom-ý x Lakom-ec
+- Slovotvorný prostředek - tvořen částmi slova, včetně hláskových rozdílů, jimiž se liší základové a utvořené slovo
+- Lakom-**ec**
+- Věcný význam nese jak slovotvorný základ, tak slovotvorný prostředek
+
+##### Příklad
+Zadáno: pohodář, nejlepší, sluneční
+1. **Pohod**\[ář - **Pohod**\[a
+2. Nej]**lepší** - **Lepší**
+3. **Slun**\[eční - **Slun**\[ce
+
+Pokračování - [[Slovotvorný Základ]]

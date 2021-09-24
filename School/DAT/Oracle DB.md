@@ -1,2 +1,0 @@
-- Výrobcem Oracle Corporation
-- Výkonná

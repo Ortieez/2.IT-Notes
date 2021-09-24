@@ -1,8 +1,8 @@
-### Stát
+ ### Stát
 - Organizační soustava lidské společnosti
 - Soustava má své:
 	1) ohraničení území (prostor pod zemí, prostor na povrchu země, vzdušný prostor)
-	2) občany (obyvatelstvo)
+	2) občany ([[Obyvatelstvo]])
 	3) řídící orgány, administrativní aparát a ozbrojenou moc
 
 1. Před vznikem státu:

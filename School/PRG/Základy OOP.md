@@ -1,4 +1,4 @@
- # Změna programátorského paradigmatu
+ ### Změna programátorského paradigmatu
  
 OOP se od strukturovaného programování liší:
 - způsobem jak autor přemýšlí o problému a jeho řešení
@@ -10,7 +10,7 @@ Základní myšlenkou OOP je snaha využít při řešení problémů principů 
 
 OOP definuje program jako soubor spolupracujících objektů s přesně stanoveným chováním a stavem.
 
- # Základní východisko – reálný svět
+ ### Základní východisko – reálný svět
 
 Každý organismus:
 - je unikátní, tedy jednoznačně odlišitelný od ostatních,
@@ -20,7 +20,7 @@ Každý organismus:
 - nabízí pro každou interakci vhodné rozhraní,
 - dědí vlastnosti a chování po předcích a předává je potomkům.
 
- # Základní koncepce OOP
+ ### Základní koncepce OOP
 - [[Objekt]]
 - [[Třída]]
 - [[Abstrakce]]
@@ -30,7 +30,7 @@ Každý organismus:
 - [[Dědičnost]]
 - [[Polymorfismus]]
 
-# Programovací Jazyky
+### Programovací Jazyky
 
 Objektové jazyky:
 - Ruby
