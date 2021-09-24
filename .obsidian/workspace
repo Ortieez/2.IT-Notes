@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School/DAT/Úvod do Databází.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/DAT/Úvod do Databází.md"
+                "file": "README.md"
               }
             }
           },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/DAT/Úvod do Databází.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "School/DAT/Úvod do Databází.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,10 +151,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "active": "95b1125740e4996d",
   "lastOpenFiles": [
+    "README.md",
     "School/DAT/Úvod do Databází.md",
     "School/DAT/Reálne SŘBD.md",
     "PostgreSQL.md",
@@ -163,7 +165,6 @@
     "School/DAT/Microsoft Access.md",
     "School/DAT/Untitled.md",
     "School/DAT/Oracle DB.md",
-    "School/DAT/MySQL.md",
-    "School/POS/Základy  POS.md"
+    "School/DAT/MySQL.md"
   ]
 }
