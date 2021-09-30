@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "95b1125740e4996d",
+        "id": "58c3aa868a4ac4a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -141,7 +141,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5464423140345086,
+                  "scale": 0.5986387909330291,
                   "close": true
                 }
               }
@@ -151,20 +151,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
-  "active": "95b1125740e4996d",
+  "active": "58c3aa868a4ac4a6",
   "lastOpenFiles": [
     "README.md",
-    "School/DAT/Úvod do Databází.md",
-    "School/DAT/Reálne SŘBD.md",
-    "PostgreSQL.md",
-    "Microsoft SQL Server.md",
-    "School/DAT/Typy DB Systémů/Oracle DB.md",
-    "School/DAT/Microsoft Access.md",
+    "School/DAT/Parcialita.md",
     "School/DAT/Untitled.md",
-    "School/DAT/Oracle DB.md",
-    "School/DAT/MySQL.md"
+    "School/DAT/Kardinalita v E-R Diagramu.md",
+    "School/DAT/Konceptuální modelování.md",
+    "School/DAT/Identifikační klíč.md",
+    "School/DAT/Úvod do Databází.md",
+    "Identifikační klíč.md",
+    "identifikačním klíčem.md",
+    "School/DAT/DBS Historie.md"
   ]
 }

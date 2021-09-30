@@ -1,7 +1,7 @@
 {
-  "totalUptime": 53896000,
-  "lastLoad": 1632473928176,
-  "currentSessionDuration": 1200000,
+  "totalUptime": 68230000,
+  "lastLoad": 1633019804144,
+  "currentSessionDuration": 600000,
   "showTotalUptimeInStatusBar": true,
   "displayStaringTimeAsHumanString": true,
   "staringText": "Vault opened for: ",

@@ -20,3 +20,9 @@
 	 
 3. Data (auta, kola, motorky)
 4. Pravidla (Protokoly) (dopravní pravidla)
+
+### Rozdělení sítí podle velikosti
+4.PAN (Personal Area Network)
+3.LAN (Local Area Network)
+~~2.MAN (Metropolitan Area Network) (Neřeší se)~~
+1.WAN (Wide Area Network)

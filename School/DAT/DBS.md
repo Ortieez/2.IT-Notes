@@ -1,4 +1,4 @@
-# Funkční Architektura DBS
+### Funkční Architektura DBS
 
 - Manažer souborů dělá prostředníka mezi operačním systémem a SŘBD.
 - Kompilátor DDL zpracovává definici schématu a ukládá ji do slovníku.
@@ -9,7 +9,7 @@
 
 ![[DBS.png]]
 
-# Další architektury DBS
+### Další architektury DBS
    
 
 - Systémy řízení distribuovaných bází dat
