@@ -1,0 +1,2 @@
+- Mají svůj věcný význam - stává se součástí významu slova utvořeného
+- Slovotvorné prostředky = významové rozdíly mezi základovým a odvozeným slovem

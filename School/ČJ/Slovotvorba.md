@@ -36,3 +36,10 @@ Zadáno: pohodář, nejlepší, sluneční
 3. **Slun**\[eční - **Slun**\[ce
 
 Pokračování - [[Slovotvorný Základ]]
+
+Slovní rozbor = určuje předpony, kořen, přípony a koncovky
+Slovotvorný rozbor = určuje slovotvorný základ a slovotvorný prostředek
+
+Typy slovotvorby:
+	[[Odvozování]]
+	
