@@ -1,1 +1,1 @@
-Objekt může delegovat provedení operace (požádat o provedení) na jiný objekt. #definice
+- Objekt může delegovat provedení operace (požádat o provedení) na jiný objekt.

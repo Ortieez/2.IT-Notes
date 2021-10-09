@@ -1,4 +1,4 @@
-Obecně je v kontextu OOP polymorfismus vlastnost, která umožňuje objektům volání jedné metody se stejným jménem, ale s jinou implementací. #definice 
+- Obecně je v kontextu OOP polymorfismus vlastnost, která umožňuje objektům volání jedné metody se stejným jménem, ale s jinou implementací.
 
 Polymorfizmus umožňuje:
 - jednomu objektu volat jednu metodu s různými parametry,

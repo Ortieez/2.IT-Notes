@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "58c3aa868a4ac4a6",
+        "id": "8a6a64ed9ab7d6f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 370.01219177246094
   },
   "right": {
     "id": "9858f8e28abe43fe",
@@ -81,14 +81,6 @@
             }
           },
           {
-            "id": "e95bd2c67d38af83",
-            "type": "leaf",
-            "state": {
-              "type": "hackernews-view",
-              "state": {}
-            }
-          },
-          {
             "id": "27dc8fd9e319d18a",
             "type": "leaf",
             "state": {
@@ -104,9 +96,16 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "49d05f9612ce6dc1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2cd16f697f2c1dc1",
@@ -141,7 +140,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5986387909330291,
+                  "scale": 0.42699436054649575,
                   "close": true
                 }
               }
@@ -151,19 +150,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 442.2666320800781,
+    "collapsed": true
   },
-  "active": "58c3aa868a4ac4a6",
+  "active": "8a6a64ed9ab7d6f5",
   "lastOpenFiles": [
     "README.md",
-    "School/ČJ/Untitled.md",
-    "School/ČJ/Tvorba Slov/Odvozování.md",
-    "School/ČJ/Slovotvorba.md",
-    "School/ČJ/Index Of ČJ.md",
-    "School/ČJ/Slova Příbuzná.md",
-    "School/ČJ/Slovotvorný prostředek.md",
-    "School/ČJ/Slovotvorný Základ.md",
-    "School/DAT/Parcialita.md",
-    "School/DAT/Konceptuální modelování.md"
+    "Index Of 2.IT.md",
+    "School/Index Of School.md",
+    "School/ZSV/Právo.md",
+    "School/ZSV/Stát.md",
+    "School/ZSV/Obyvatelstvo.md",
+    "School/ZSV/Spravedlnost.md",
+    "School/PRV/Index Of PRV.md",
+    "School/PRX/Index Of PRX.md",
+    "School/PRV/Softwarové License.md"
   ]
 }

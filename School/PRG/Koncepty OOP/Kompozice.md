@@ -1,6 +1,6 @@
-Kompozice umožňuje kombinovat jednoduché objekty do složitějších struktur. 
+- Kompozice umožňuje kombinovat jednoduché objekty do složitějších struktur. 
 
-Vznikají tak pokročilé datové struktury (spojový seznam, binární strom), s nimiž se pracuje stejně jako se základními objekty. #definice
+- Vznikají tak pokročilé datové struktury (spojový seznam, binární strom), s nimiž se pracuje stejně jako se základními objekty.
 
 - Příklad:
 	- Auto má karburátor.

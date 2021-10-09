@@ -16,11 +16,15 @@
 	2) dovoleno citovat
 	3) lze používat pro osobní potřebu, nelze dál šířit
 
+---
+
 ### SW License
 - Autor může licence měnit
 - Při instalaci sw je potřeba odsouhlasit licenční smlouvu
 - Licence stanovuje podmínky užívání
 - Umožňuje uživateli redistribuovat ten určitý SW
+
+---
 
 ### Legální SW
 - Kontrolu řeší speciální oddělení policie ČR

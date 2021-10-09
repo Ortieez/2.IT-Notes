@@ -8,5 +8,7 @@
 - Optimalizováno na rychlost
 - Současná verze MySQL Server 8.0
 
+---
+
 ### Funkce MySQL
 - Cizí klíče, Transakce, Různé znakové sady, Poddotazy, Uložené procedury,...
