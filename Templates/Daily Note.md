@@ -14,8 +14,12 @@ modification date: <% tp.file.last_modified_date("dddd Do MMMM YYYY HH:mm:ss") %
 
 ---
 
-<%* if (tp.date.now("M-D") == 1-1) { %>
-[ ] Make Yearly Note
-<%* } %>
+Todo:
+- [ ] Write your todo notes here
+
+Daily Plan:
+- [ ] Write your daily plan
+
+---
 
 <% tp.web.daily_quote() %>
