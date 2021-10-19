@@ -1,5 +1,0 @@
-"""
-Comments
-"""
-
-print('Hello world')
