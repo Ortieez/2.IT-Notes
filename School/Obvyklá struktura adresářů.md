@@ -16,3 +16,7 @@
 - **tmp** - dočasné odkládací soubory
 - **usr** - adresáře a soubory aplikací
 - **var** - pro soubory, které za běhu systému mění svou velikost
+
+
+---
+#OSY

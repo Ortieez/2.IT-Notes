@@ -12,3 +12,6 @@
 2) přiměřené tresty i odměny - retributivní spravedlnost
 3) spravedlivé rozdělování požitků i břemen - distributivní spravedlnost
 4) rozhodovat stejné případy stejně a nestejné odlišné - procesní spravedlnost
+
+---
+#ZSV 

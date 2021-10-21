@@ -9,3 +9,6 @@
 	- Oddělení může existovat i bez zaměstnanců
 	
 ![[Parcialita.png]]
+
+---
+#DAT 

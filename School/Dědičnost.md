@@ -4,3 +4,6 @@
 
 - Příklad:
 	- Člověk dědí vlastnosti a chování po svých biologických rodičích.
+
+---
+#PRG 

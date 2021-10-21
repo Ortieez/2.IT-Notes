@@ -33,3 +33,6 @@
 ~~2.MAN (Metropolitan Area Network)~~ (Neřeší se)
 1.WAN (Wide Area Network)
 
+
+---
+#POS

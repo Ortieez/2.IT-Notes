@@ -53,3 +53,7 @@
 - Zahrnutí jazykových prostředků
 - Odolnost proti chybám
 - Řízení katalogu dat a paměti
+
+
+---
+#DAT 

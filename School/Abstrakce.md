@@ -5,3 +5,6 @@
 - Objekt můžeme používat, aniž bychom znali detaily jeho fungování.
 
 - Implementaci objektu lze změnit, pokud nezměníme rozhraní.
+
+---
+#PRG

@@ -5,3 +5,6 @@
 - Pravosti nevěřil Josef Dobrovský 
 - Celá řada expertních posudků (vědecké, Tomáš Garrigue Masaryk - zasloužil o odhalení nepravosti)
 - Pozdvihly národní sebevědomí Čechů
+
+---
+#ČJ 

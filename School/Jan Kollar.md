@@ -6,3 +6,6 @@
 - Putování básníka po slovanských zemích (Slované dobří, Němci zlí)
 - Sláva, Slávie - bohyně Slovanů
 - Slávy dcera je tendenční sbírkou
+
+---
+#LIT 

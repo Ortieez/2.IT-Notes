@@ -9,3 +9,6 @@
 
 - Slovotvorných základů i prostředků ve 
   slově více: moře + plavba = mořeplavba, město -> náměstí
+  
+---
+#ČJ 

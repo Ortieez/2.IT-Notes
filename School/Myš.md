@@ -34,3 +34,7 @@
 	- Narozdíl od bezkabelových nepotřebují "dongle" ale interní bluetooth přijímač
 	- Je k ním většinou přidáván i USB dongle, protože BT není u PC většinou vidět
 
+
+---
+
+#PRG 

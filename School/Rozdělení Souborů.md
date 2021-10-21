@@ -29,3 +29,6 @@
 		- Tiskárny nebo paměť
 
 - Speciální soubory jsou umístěny v adresáři /dev. Speciální soubory jsou buď blokové (hdd, ...) nebo znakové (terminály, tiskárny, ...)
+
+---
+#OSY 

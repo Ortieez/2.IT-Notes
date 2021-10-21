@@ -12,3 +12,6 @@
 
 - Rozšiřitelný
 	- Nové datové typy, funkce, …
+
+---
+#DAT 

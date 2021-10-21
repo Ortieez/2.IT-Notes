@@ -49,3 +49,7 @@ Slovotvorný rozbor = určuje slovotvorný základ a slovotvorný prostředek
 
 - Typy slovotvorby:
 	- [[Odvozování]]
+
+
+---
+#ČJ 

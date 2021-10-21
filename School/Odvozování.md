@@ -16,3 +16,7 @@
 	- dloužení či krácení samohlásky (létat -> letadlo)
 	- přip. ke střídání dvou samohlásek nebo souhlásek (žlutý -> zažloutlý) = součást slovotvorného prostředku
 	![[Odvozování.png]]
+	
+
+---
+#ČJ 

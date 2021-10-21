@@ -34,3 +34,7 @@
 - Atribut určuje podstatnou vlastnost entity nebo vztahu. Použitou množinu hodnot nazveme doménou atributu.
 	- Rodné číslo zaměstnance, …
 
+
+---
+
+#DAT 

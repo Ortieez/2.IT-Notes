@@ -8,3 +8,6 @@
 	- Auto má karburátor.
 	- Karburátor je vytvořen, když je vytvořeno Auto.
 	- Pokud zničíme (smažeme) auto, je zničen (smazán) i karburátor.
+
+---
+#PRG 

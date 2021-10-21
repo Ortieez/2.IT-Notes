@@ -11,3 +11,8 @@
 	- Oracle Database, MS SQL Server, …
 
 - Podpora SQL
+
+
+---
+
+#DAT 

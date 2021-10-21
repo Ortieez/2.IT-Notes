@@ -19,3 +19,6 @@
 - První verze SQL zvaná Sequel vznikla v roce 1974.
 
 - V 90. letech se začaly objevovat objektově orientované databáze.
+
+---
+#DAT 

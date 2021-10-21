@@ -12,3 +12,7 @@
 
 ### Funkce MySQL
 - Cizí klíče, Transakce, Různé znakové sady, Poddotazy, Uložené procedury,...
+
+
+---
+#DAT 

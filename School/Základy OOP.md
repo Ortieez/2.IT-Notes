@@ -48,3 +48,7 @@
 
 - Objektová rozšíření původně neobjektových jazyků:
 	- Object Pascal, PHP
+
+
+---
+#PRG 

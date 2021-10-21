@@ -7,3 +7,6 @@
 - Každý záznam má přiřazený databázový klíč, který slouží pro jeho adresaci ve vztazích.
 
 ![[Sitova_DB.png]]
+
+---
+#DAT 

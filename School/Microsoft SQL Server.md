@@ -8,3 +8,8 @@
 	- Microsoft jej upravil pro Windows NT (1993)
 
 - Komplexní nástroj pro vedení firmy
+
+
+---
+
+#DAT 

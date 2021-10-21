@@ -35,3 +35,6 @@
 	- Hw klíč
 	- Aktivace programu
 - Překonání ochran je nelegální
+
+---
+#PRV

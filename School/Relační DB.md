@@ -9,3 +9,6 @@
 - Např. MySQL, PostgreSQL...
 
 ![[Relacni_DB.png]]
+
+---
+#DAT 

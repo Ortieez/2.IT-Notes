@@ -34,3 +34,7 @@
 DBS obvykle zahrnují kombinace uvedených i jiných architektur.
 
 - Zde je lehce něco o [[DBS Historie]]
+
+
+---
+#DAT

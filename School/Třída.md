@@ -5,3 +5,7 @@
 - Seskupuje objekty stejného typu a podchycuje jejich podstatu na obecné úrovni. 
 
 - Třída definuje data (vlastnosti) a metody (chování) objektů.
+
+
+---
+#PRG 

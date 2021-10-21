@@ -128,3 +128,7 @@ $ ln -s jméno_cíle [jméno_sym_odkazu]
 
 ### Základní souborové příkazy
 ![[Souborove_Prikazy.png]]
+
+
+---
+#OSY 

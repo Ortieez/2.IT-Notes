@@ -6,3 +6,7 @@
 - 2 básnické sbírky:
 	- **Ohlas písní českých** - poezie (epická a zároveň přírodní a lyrická)
 	- **Ohlas písní ruských** - ruská hrdinská epika (hrdina Ilja Murovec)
+
+
+---
+#LIT 

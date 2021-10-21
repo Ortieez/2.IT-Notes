@@ -27,3 +27,7 @@
 - [[Spravedlnost]]
 
 - stát vynucuje dodržování pravních předpisů - prostřednictvím administrativního aparátu a ozbrojené moci (edited)
+
+
+---
+#ZSV 

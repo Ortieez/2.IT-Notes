@@ -20,3 +20,7 @@
 	- Neexistuje jednoznačná funkční závislost mezi oběma entitními typy.
 
 ![[Kardinalita.png]]
+
+---
+
+#DAT 

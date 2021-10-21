@@ -30,3 +30,10 @@
 - Jeho hlavním dílem je německo-český slovník (použil starší české výrazy = historismy a archaismy, ostatní slovanské jazyky, nová slova = neologismy)
 
 ---
+
+### 3. Fáze
+
+Hlavní osobou v této fázi byla [[Božena Němcová]]
+
+---
+#LIT 

@@ -6,3 +6,6 @@
 - Výkladový
 - Úvahový
 - [[Administrativní Styl|Administrativní]] - úřední (např. žádost)
+
+---
+#ČJ 
