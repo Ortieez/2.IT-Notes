@@ -5,4 +5,4 @@
 - Tyto naivní myšlenky se projevily i v literatuře
 
 ---
-#ČJ 
+#LIT 

@@ -9,4 +9,4 @@
 - Přepracoval Hájkovu kroniku -> Nová kronika česká
 
 ---
-#ČJ 
+#LIT 
