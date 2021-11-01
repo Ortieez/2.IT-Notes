@@ -5,7 +5,7 @@
 - Vyprávěcí
 - Výkladový
 - Úvahový
-- [[Administrativní Styl|Administrativní]] - úřední (např. žádost)
+- [[Administrativní Styl|Administrativní]] - úřední (např. žádost) 
 
 ---
 #ČJ 
