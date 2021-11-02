@@ -32,5 +32,17 @@
 - Nevlastní předložky:
 	- (vzhledem, z hlediska, se zřetelem, v porovnání, v důsledku, ...)
 
+- Ustálené a standardizované obraty (automatizace):
+	- (obracíme se na vás se žádostí, žádáme o zajištění, přezkoumání rozhodnutí, z uvedených důvodů se na vás obracíme s prosbou...)
+
+- Skladba - jmenné vyjadřování
+	- (jste obžalován z porušování dopravních předpisů)
+
+- Zejména rozložené vazby slovesně jmenné
+	- (každý člen výboru učiní prohlášení, že bude vykonávat svou funkcni nestranně)
+
+- Časté užití trpného rodu:
+	- (manželství se rozvádí - bude prohlášeno za neplatné)
+
 ---
 #ČJ
