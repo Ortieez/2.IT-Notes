@@ -23,7 +23,7 @@ def solve(a, b, c):
     if D == 0:
         # Pokud je diskriminant nula výsledek má 1 řešení
         x = (-1) * (b) / (2 * a)
-        print("Solution: k{0;", x2, "}")
+        print("Solution: k{0;", x, "}")
 
 
 if __name__ == '__main__':

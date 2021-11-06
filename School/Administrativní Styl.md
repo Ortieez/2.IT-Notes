@@ -44,5 +44,11 @@
 - Časté užití trpného rodu:
 	- (manželství se rozvádí - bude prohlášeno za neplatné)
 
+### Postup
+
+- Slohový postup informační (sdělovací, oznamovací)
+
+- Podává fakta bez zvláštního formálního zpracování - jen ve věcných (místních, časových) nebo formálnách (abecedních souvislostech)
+
 ---
 #ČJ

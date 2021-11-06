@@ -21,7 +21,6 @@
 - český jazyk se pomalu dostáva i do školství - 1. fakulta českého jazyka na Karlo-Ferdinandově univerzitě v Praze (1. učitel českého jazyka =  [[Počátky Dějepisectví|František Martin Pelcl]])
 - Hlavní postavou v obrození byl [[Josef Dobrovský]]
 
----
 
 ### 2. Fáze
 (20. A 30. Léta 19. Století)
@@ -29,7 +28,6 @@
 - Klíčová osobnost: Josef Jungmann (1773-1847)
 - Jeho hlavním dílem je německo-český slovník (použil starší české výrazy = historismy a archaismy, ostatní slovanské jazyky, nová slova = neologismy)
 
----
 
 ### 3. Fáze
 
