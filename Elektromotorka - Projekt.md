@@ -1,2 +1,0 @@
-# Elektromotorka IT - Projekt
-

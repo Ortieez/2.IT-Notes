@@ -13,7 +13,7 @@
 - S některými subjektivními právy je spojena odpovědnost
 
 - Vztah objektivního a subjektivního prává = vztah abstraktního a konkrétního pojetí práva
-- Objektivní právo = občanský zákoník ustanovuje, jak má nájemce platit pronajímateli nájemné a každý pronajímatel
+- Objektivní právo = občanský zákoník ustanovuje, jak má nájemce platit pronajímateli nájemné a každý pronajímatel ^748c53
 - Subjektivní právo = konkrétní pronajímatel má právo (moc) vynutit na svém určitém nájemci zaplacení nájemného 
 
 ---

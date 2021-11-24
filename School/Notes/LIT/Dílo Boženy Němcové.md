@@ -6,3 +6,7 @@
 
 - Divá Bára:
 	- Vyjímečná, chová se jako kluk, všichní jí pohrdají kvůli jejímu charakteru
+
+
+
+#LIT 
