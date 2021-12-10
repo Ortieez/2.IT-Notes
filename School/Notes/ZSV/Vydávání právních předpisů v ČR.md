@@ -9,4 +9,10 @@
 		- vláda -> nařízení
 		- ministerstva a jiné správní orgány -> vyhlášky
 
+- **orgány územní samosprávy**
+	-  právní předpis:
+		- kraje -> vyhlášky, nařízení
+		- obce -> vyhlášky, nařízení
+
+
 #ZSV 
