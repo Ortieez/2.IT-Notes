@@ -13,3 +13,10 @@
 - měšťanstvo - nový životní postoj a umělecký styl
 - protest proti nespravedlnosti a poutům feudalismu, odpor k chladnému rozumářství 
 - zdůrazňování citových hodnot prostého, "nezkaženého člověka"
+
+- ideální kulisa - přírodní svět neporušený civilizací, zabydlený pouze pastýři nebo venkovany
+- pastýři skuteční, nikoliv šlechta hrající si na naivní pastýře
+
+### Znaky
+- smysl pro velikost, vznešenost
+- původnost, starobylost, pro lid a jeho duchovní kulturu
