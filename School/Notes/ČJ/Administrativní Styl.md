@@ -9,7 +9,7 @@
 
 - Slohové postupy odpovídají stylu odbornému 
 - Jazykové prostředky odpovídají stylu odbornému
-- Převažuje písemný charakter textů,** jazyk spisovný**
+- Převažuje písemný charakter textů, **jazyk spisovný**
 
 - Hlavní Rysy:	
 	- věcnost, výstižnost, objektivnost
