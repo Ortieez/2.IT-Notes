@@ -20,3 +20,18 @@
 ### Znaky
 - smysl pro velikost, vznešenost
 - původnost, starobylost, pro lid a jeho duchovní kulturu
+
+## Klasické a romantické prvky v preromantismu
+- trvá kult starověkých autorů - zejména řeckých
+- posun v estetickém hodnocení - preromantikům bližší řecká kultura a homér = výraz národního ducha
+- hlavně v literatuře, ve výtvarném umění vůbec
+- do klasicismu řazeni - Goethe a Schiller (němečtí básníci)
+
+### Oblíbené obrazy a scenérie u preromantiků
+1. *Literatura Anglická* - tzv. poezie jezerní a hřbitovní = příznačné pochmurné obrazy (opuštěná jezera, hrobky, noční scenérie, hradní trosky, měsíční svit... )
+2. *Symboly* - mnich, poustevník, vězeň, poutník
+	- Homér a Shakespeare - příklady velkých "přírodních" géniů = neohlížejí se na estetická pravidla
+- odklon od tradic francouzské literatury 
+- oblíbená *anglická poezie* - zdůrazňuje opravdovost citu, hloubku vášně a prožitek srdce
+- silný inspirační zdroj - *poezie lidová* = horlivě sbírána a napodobovaná (zvláště ceněné balady)
+- stylizace preromantického básníka: postoj barda, mluvčí národního kolektivu, jindy anonymita lidového pěvce, nebo role věštce či proroka
