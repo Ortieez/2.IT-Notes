@@ -1,7 +1,7 @@
 # Slovní Druhy
 1) podstatná jména (substantiva)
-2) přídavná jména (adjektiva)
-3) zájmena (pronomina)
+2) [[Přídavná Jména|přídavná jména]] (adjektiva)
+3) [[Zájmena|zájmena]] (pronomina)
 4) číslovky (numeralia)
 5) slovesa (verba)
 6) příslovce (adverbia)

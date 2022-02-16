@@ -4,8 +4,9 @@
 - ohebné slovní druhy = substantiva, adjektiva, pronomina, numeralia a verba
 - tvary se obměňují - věcný význam zůstává stejný
 - ve slovnících zastoupeny tvary jen jedním - **základní tvar**
-- jména - 1.pád jednotného čísla
-- slovesa - [[Infinitiv (tzv. neurčitek)|infinitiv]]
+	- jména - 1.pád jednotného čísla
+	- slovesa - [[Infinitiv (tzv. neurčitek)|infinitiv]]
+
 - **jednoduchý tvar slova** - obsahuje jedno slovo (např. psů, četl)
 - **složený tvar slova** - skládá se z několika slov (např. četl jsem - dvě slova, ale jeden tvar - minulý čas)
 

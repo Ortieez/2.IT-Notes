@@ -26,4 +26,28 @@
 - nelze se odvolat proti jeho rozhodnutí
 - sídlo v **Brně**
  ![[Ústavní-Soud-Brno.png]]
-  
+
+## Principy fungování státu
+- Právo na spravedlivý proces = základní princip
+- Ostatní principy podřízený
+- Nezávislost a nestrannost soudů a soudců
+- Princip zákonného soudu a zákonného soudce
+- Princip rovnosti a kontradiktornosti
+- Princip veřejnosti
+- Princip ústnosti a přímosti
+- Princip hospodárnosti
+- Princip předvídatelnosti
+
+## Státní zastupitelství
+- soustava úřadů
+- vedle úřadů se také podílí na právní ochraně
+- zástupce veřejné žaloby v trestním řízení
+- orgány státního zastupitelství: státní zástupci + náměstci
+- upozornění na nezákonnosti, stíhání trestných činů, dohled na dodržování zákonů...
+
+### Soustava úřadů
+1. nejvyšší státní zastupitelství
+2. vrchní státní zastupitelství
+3. krajské státní zastupitelství
+4. okresní státní zastupitelství
+- Organizace, sídla i obvody se shodují se sídly a obvody soudů

@@ -14,4 +14,4 @@
 4) rozhodovat stejné případy stejně a nestejné odlišné - procesní spravedlnost
 
 ---
-#ZSV 
+#ZSV 8
