@@ -16,3 +16,24 @@
 	- zakončení *-si, -koli(v), -pak* 
 	- patří sem i **každý, všechen, bůhvíco, kdejaký**
 7) **záporná zájmena** - popírání existence osoby, zvířete, věci, děje či vlastnosti (*nikdo, nic*...)
+
+# Mluvnické kategorie u zájmen
+- vyjadřují své mluvnivké kategorie v zásvislosti na pádě, čísle, a rodě jmen, která v komunikátu zastupují
+- zvláštnosti v kategorii rodu:
+	1) **Rodová** zájmena (ten, ta, to) - pro každý rod vlastní tvar
+	2) **Bezrodová** zájmena (já, ty, my, vy, se) - jeden soubor tvarů, rod nevyjadřují
+	3) **Kdo** a **Co** - na pomezí obou typů (jeden soubor tvarů, ale při shodě kdo = mužský rod, co = střední rod)
+- zvláštnost: kategorie u pádu u zvratného **se**, nemůže vyjádřit 1. pád
+
+# Skloňování zájmen
+- rodová zájmena se skloňují podle:
+	1) zájmenných vzorů ten a náš
+	2) podle vzorů přídavných jmen - mladý a jarní
+	3) podle vzorů podstatných jmen - (sám)
+	4) nesklonná zájmena (jeho, jejich a jehož, jejichž)
+
+# Specifikace skloňování bezrodých zájmen
+- nejproblematičtější zájmena: *jenž* a *týž/tentýž*
+- jenž - skloňování jako zájmeno on (kromě 1. pádu)
+- týž - skloňování podle vzoru mladý
+- zájmeno týž a tentýž má v 1. pádě i tvary složené z ten a týž (např. tatáž)
